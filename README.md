@@ -1,4 +1,4 @@
-# demoHtml
+# not a demoHtml
 A Demo HTML Site from the Computing Fundamentals Course
 
 # Author
